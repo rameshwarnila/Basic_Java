@@ -1,2 +1,2 @@
 # Java
-This repos contains all the basic java and advance java programms.
+This repos contains all the basic Java and Advance Java programms.
