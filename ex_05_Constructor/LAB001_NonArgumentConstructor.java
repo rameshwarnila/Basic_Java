@@ -25,6 +25,5 @@ public class LAB001_NonArgumentConstructor {
 		
 		LAB001_NonArgumentConstructor from = new LAB001_NonArgumentConstructor();
 		
-
 	}
 }
